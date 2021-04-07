@@ -1,13 +1,11 @@
 # awesome-idmef
-List of IDMEF implementation, documentation, ...
+List of IDMEF implementations, documentation, ...
 
 ## Implementations
 
- - [libidmef](https://github.com/SECEF/libidmef)
-
- - [libidmefv2](https://github.com/SECEF/libidmefv2)
-
  - [libprelude](https://github.com/Prelude-SIEM/libprelude)
+
+ - [php-idmef](https://github.com/fpoirotte/php-idmef)
 
 ## Security probes with IDMEF support
 

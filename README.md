@@ -7,6 +7,8 @@ List of IDMEF implementations, documentation, ...
 
  - [php-idmef](https://github.com/fpoirotte/php-idmef)
 
+ - [go-idmef](https://github.com/grokify/go-idmef)
+
 ## Security probes with IDMEF support
 
  - [Suricata](http://suricata-ids.org/)
